@@ -11,6 +11,11 @@
             {
                 "nombre": "Desayunos",
                 "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-07.jpg",
+                "extras":[
+                    {
+                        "description":"TU PLATILLO INCLUYE JUGO O FRUTA  + CAFÉ DE OLLA O TÉ CALIENTE"
+                    }
+                    ],
                 "Paquetes": [
                     {
                         "nombre_p": "Paquete N° 1",
