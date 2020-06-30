@@ -48,13 +48,7 @@
                         "platillo_desc": "",
                         "precio": "95"
                     }
-                ],
-                "incluye": [
-                    {
-                        "nombre": "",
-                        "descripcion": ""
-                    }
-                ],
+                ]
             },
             {
                 "nombre": "Entradas",
