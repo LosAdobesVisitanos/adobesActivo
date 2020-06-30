@@ -1,0 +1,715 @@
+{
+    "html": {
+        "idioma": "es-Mx",
+        "home": {
+            "titular": "Bienvenido",
+            "Agradecimiento": "Gracias por tu visita",
+            "opcion": "Selecciona el botón para Acceder al menú",
+            "btnmenu": "Menú aqui"
+        },
+        "Menu": [
+            {
+                "nombre": "Desayunos",
+                "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-07.jpg",
+                "incluye": [
+                    {
+                        "nombre": "",
+                        "descripcion": ""
+                    }
+                ],
+                "Paquetes": [
+                    {
+                        "nombre_p": "Paquete N° 1",
+                        "platillo_nombre": "HUEVOS AL GUSTO",
+                        "platillo_desc": "(Con tocino, Jamón, a la mexicana, rancheros)",
+                        "precio": "110"
+                    },
+                    {
+                        "nombre_p": "Paquete N° 2",
+                        "platillo_nombre": "CHILAQUILES SENCILLOS",
+                        "platillo_desc": "(Rojos o verdes)",
+                        "precio": "110"
+                    },
+                    {
+                        "nombre_p": "Paquete N° 3",
+                        "platillo_nombre": "CHILAQUILES CON BISTECK O POLLO",
+                        "platillo_desc": "(Rojos o verdes)",
+                        "precio": "150"
+                    },
+                    {
+                        "nombre_p": "Paquete N° 4",
+                        "platillo_nombre": "MOLLETES",
+                        "platillo_desc": "",
+                        "precio": "100"
+                    },
+                    {
+                        "nombre_p": "Paquete N° 5",
+                        "platillo_nombre": "SINCRONIZADAS",
+                        "platillo_desc": "",
+                        "precio": "100"
+                    },
+                    {
+                        "nombre_p": "Paquete N° 6",
+                        "platillo_nombre": "HOTCAKES",
+                        "platillo_desc": "",
+                        "precio": "95"
+                    }
+                ]
+            },
+            {
+                "nombre": "Entradas",
+                "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-15.jpg",
+                "Paquetes": [
+                    {
+                        "nombre_p": "ORDEN DE QUESADILLA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "(3 PZAS)",
+                        "precio": "75"
+                    },
+                    {
+                        "nombre_p": "QUESO FUNDIDO NATURAL",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "110"
+                    },
+                    {
+                        "nombre_p": "QUESO FUNDIDO",
+                        "platillo_nombre": "CON CHAMPIÑONES, CHISTORRA O LONGANIZA",
+                        "platillo_desc": "",
+                        "precio": "140"
+                    },
+                    {
+                        "nombre_p": "ALITAS A LA BBQ",
+                        "platillo_nombre": "4 PZAS",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    },
+                    {
+                        "nombre_p": "PAPAS A LA FRANCESA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "70"
+                    },
+                    {
+                        "nombre_p": "ORDEN DE GUACAMOLE",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    },
+                    {
+                        "nombre_p": "FRIJOLES FRITOS CON TOTOPOS",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "70"
+                    },
+                    {
+                        "nombre_p": "CHILES TOREADOS",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "40"
+                    },
+                    {
+                        "nombre_p": "ORDEN DE SOPES",
+                        "platillo_nombre": "(3 PZAS)",
+                        "platillo_desc": "",
+                        "precio": "60"
+                    },
+                    {
+                        "nombre_p": "ENSALADA DE NOPALES",
+                        "platillo_nombre": "(2 PERSONAS)",
+                        "platillo_desc": "",
+                        "precio": "70"
+                    }
+                ]
+            },
+            {
+                "nombre": "Cremas",
+                "image_url": "https://restaurantescercamio.es/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-14-a-las-10.13.42-350x230.png",
+                "Paquetes": [
+                    {
+                        "nombre_p": "CREMA DE ELOTE",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    },
+                    {
+                        "nombre_p": "CREMA DE CHAMPIÑONES",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    },
+                    {
+                        "nombre_p": "CREMA POBLANA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    },
+                    {
+                        "nombre_p": "CREMA DE ZANAHORIA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    }
+                ]
+            },
+            {
+                "nombre": "Espagueti",
+                "image_url": "https://profesionalhoreca.com/wp-content/uploads/2015/01/Profesionalhoreca-plato-espaguetis.gif",
+                "Paquetes": [
+                    {
+                        "nombre_p": "ESPAGUETI ROJO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    },
+                    {
+                        "nombre_p": "ESPAGUETI POBLANO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "90"
+                    },
+                    {
+                        "nombre_p": "ESPAGUETI CAMPESINO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "95"
+                    },
+                    {
+                        "nombre_p": "ESPAGUETI A LOS TRES QUESOS",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "100"
+                    }
+                ]
+            },
+            {
+                "nombre": "Tacos",
+                "image_url": "https://www.unicdesignhotel.com/wp-content/uploads/2019/07/Captura-de-pantalla-2019-07-30-a-las-22.30.33.png",
+                "Paquetes": [
+                    {
+                        "nombre_p": "TACO BISTECK",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "25"
+                    },
+                    {
+                        "nombre_p": "LONGANIZA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "25"
+                    },
+                    {
+                        "nombre_p": "AL PASTOR",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "25"
+                    },
+                    {
+                        "nombre_p": "ARRACHERA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    }
+                ]
+            },
+            {
+                "nombre": "Sopas",
+                "image_url": "https://clipartstation.com/wp-content/uploads/2018/10/sopas-clipart-8.jpg",
+                "Paquetes": [
+                    {
+                        "nombre_p": "SOPA DEL DIA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "50"
+                    },
+                    {
+                        "nombre_p": "SOPA AZTECA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    },
+                    {
+                        "nombre_p": "CONSOME DE POLLO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "55"
+                    },
+                    {
+                        "nombre_p": "ARROZ",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "50"
+                    }
+                ]
+            },
+            {
+                "nombre": "Hamburguesas",
+                "image_url": "data:image/jpeg;base64,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",
+                "Paquetes": [
+                    {
+                        "nombre_p": "HAMBURGUESA SENCILLA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "70"
+                    },
+                    {
+                        "nombre_p": "HAMBURGUESA HAWAIANA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "ACOMPAÑADA CON PAPAS A LA FRANCESA",
+                        "precio": "100"
+                    },
+                    {
+                        "nombre_p": "HAMBURGUESA DOBLE",
+                        "platillo_nombre": "",
+                        "platillo_desc": "ACOMPAÑADA CON PAPAS A LA FRANCESA",
+                        "precio": "110"
+                    },
+                    {
+                        "nombre_p": "HAMBURGUESA DE ARRACHERA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "ACOMPAÑADA CON PAPAS A LA FRANCESA",
+                        "precio": "120"
+                    },
+                    {
+                        "nombre_p": "CHORI HAMBURGUESA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "ACOMPAÑADA CON PAPAS A LA FRANCESA",
+                        "precio": "190"
+                    },
+                    {
+                        "nombre_p": "HAMBURGUESA LOS ADOBES ( CARNE DE ARRACHERA, TOCINO, CHORIZO).",
+                        "platillo_nombre": "",
+                        "platillo_desc": "ACOMPAÑADA CON PAPAS A LA FRANCESA",
+                        "precio": "170"
+                    }
+                ]
+            },
+            {
+                "nombre": "Plato fuerte",
+                "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-10.jpg",
+                "Paquetes": [
+                    {
+                        "nombre_p": "TACOS DORADOS",
+                        "platillo_nombre": "",
+                        "platillo_desc": "(AOMPAÑADOS CON ARROZ Y ENSALADA)",
+                        "precio": "100"
+                    },
+                    {
+                        "nombre_p": "ENCHILADAS VERDES CON POLLO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "100"
+                    },
+                    {
+                        "nombre_p": "ENCHILADAS VERDES CON BISTECK",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "150"
+                    },
+                    {
+                        "nombre_p": "ENCHILADAS ROJAS CON POLLO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "100"
+                    },
+                    {
+                        "nombre_p": "ENCHILADAS ROJAS CON BISTECK",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "150"
+                    },
+                    {
+                        "nombre_p": "ENCHILADAS CAMPESINAS BAÑADAS EN SALSA ROJA Y VERDE",
+                        "platillo_nombre": "",
+                        "platillo_desc": "( VERDURAS AL VAPOR, HUEVO FRITO, QUESO Y CREMA)",
+                        "precio": "160"
+                    },
+                    {
+                        "nombre_p": "PECHUGA EMPANIZADA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "(ACOMPAÑADA DE PAPAS A LA FRANCESA, GUACAMOLE Y FRIJOLES REFRITOS )",
+                        "precio": "150"
+                    },
+                    {
+                        "nombre_p": "BISTECK EMPANIZADO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "165"
+                    }
+                ]
+            },
+            {
+                "nombre": "Especialidad de la casa",
+                "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-06.jpg",
+                "Paquetes": [
+                    {
+                        "nombre_p": "MOLCAJETE ",
+                        "platillo_nombre": "2 PERSONAS",
+                        "platillo_desc": "Bistec, Costilla, Pechuga de pollo, Loganiza, Chistorra, Nopal, Cebolla Cambray y Guacamole",
+                        "precio": "550"
+                    },
+                    {
+                        "nombre_p": "PARRILLADA MIXTA",
+                        "platillo_nombre": "2 PERSONAS",
+                        "platillo_desc": "Acompañada de Verduras al vapor, Cebollas Cambray, Nopal, Bistec, Costilla de Res, Longaniza, Chistorra, Dobladitas de Salsa Verde, Frijoles Refritos Y Totopos",
+                        "precio": "500"
+                    },
+                    {
+                        "nombre_p": "CHINICUILES GUSANO ROJO DE MAGUEY",
+                        "platillo_nombre": "25 GR",
+                        "platillo_desc": "A la mantequilla o Fritos o en Salsa",
+                        "precio": "580"
+                    },
+                    {
+                        "nombre_p": "ESCAMOLES A LA MANTEQUILLA",
+                        "platillo_nombre": "100 GR",
+                        "platillo_desc": "",
+                        "precio": "510"
+                    },
+                    {
+                        "nombre_p": "ALAMBRE DE POLLO CON QUESO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "140"
+                    },
+                    {
+                        "nombre_p": "ALAMBRE DE RES CON QUESO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "160"
+                    },
+                    {
+                        "nombre_p": "PECHUGA ASADA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "Acompañada con nopal asado, cebolla cambray, guacamole, verduras al vapor y frijoles refritos",
+                        "precio": "150"
+                    },
+                    {
+                        "nombre_p": "CARNE ASADA BISTECK O COSTILLA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "Acompañada con nopal asado, cebolla cambray, guacamole, verduras al vapor y frijoles refritos",
+                        "precio": "165"
+                    },
+                    {
+                        "nombre_p": "CARNE A LA TAMPIQUEÑA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "Acompañada con nopal asado, cebolla cambray, Longaniza, Guacamole, arroz y frijoles refritos",
+                        "precio": "190"
+                    },
+                    {
+                        "nombre_p": "PLATO LOS ADOBES, BISTEC O COSTILLA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "Acompañado de dobladitas de mole, nopal asado, cebolla cambray, chistorra, longaniza, papas a la francesa, verduras al vapor, guacamole, arroz y frijoles refritos",
+                        "precio": "230"
+                    },
+                    {
+                        "nombre_p": "MOLE CON POLLO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "150"
+                    },
+                    {
+                        "nombre_p": "ENCHILADAS LOS ADOBES ",
+                        "platillo_nombre": "",
+                        "platillo_desc": "Rellenas con pollo o carne de res con tortillas de maíz hechas a mano bañadas en salsa de jitomate con un poco de chile serrano",
+                        "precio": "165"
+                    }
+                ]
+            },
+            {
+                "nombre": "Ensaladas",
+                "image_url": "https://i.pinimg.com/originals/fd/3a/8f/fd3a8fce48875af0939755c99f369874.png",
+                "Paquetes": [
+                    {
+                        "nombre_p": "ENSALADA DEL CHEF",
+                        "platillo_nombre": "(100G)",
+                        "platillo_desc": "LECHUGA, JITOMATE, QUESO BLANCO, PEPINO, PECHUGA DE POLLO Y CROCANTES.",
+                        "precio": "130"
+                    },
+                    {
+                        "nombre_p": "ENSALADA QUETZAL",
+                        "platillo_nombre": "(100G)",
+                        "platillo_desc": "LECHUGA,  JAMÓN,  POLLO, QUESO BLANCO, JITOMATE,  AJONJOLÍ, ARÁNDANOS, NUEZ Y CROCANTES. ",
+                        "precio": "160"
+                    },
+                    {
+                        "nombre_p": "ENSALADA MARINERA",
+                        "platillo_nombre": "(100G.)",
+                        "platillo_desc": "LECHUGA,  ATUN, ACEITUNAS, QUESO BLANCO,  JAMÓN, JITOMATE, ACEITE DE OLIVO, CROCANTES.",
+                        "precio": "190"
+                    }
+                ]
+            },
+            {
+                "nombre": "Pozole y pancita",
+                "image_url": "https://bricrental.files.wordpress.com/2015/05/pozole-jalisciense-png.jpeg?w=648",
+                "Paquetes": [
+                    {
+                        "nombre_p": "POZOLE",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "70"
+                    },
+                    {
+                        "nombre_p": "PANCITA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "80"
+                    }
+                ]
+            },
+            {
+                "nombre": "Refrescos",
+                "image_url": "https://img1.freepng.es/20180615/wte/kisspng-fizzy-drinks-juice-sprite-coca-cola-fanta-soft-drinks-5b2468d13a7323.6093287015291127852394.jpg",
+                "Paquetes": [
+                    {
+                        "nombre_p": "COCA COLA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "MANZANITA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "SPRITE",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "FANTA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "BOING DE MANGO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "BOING DE GUAYABA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "SANGRIA PREPARADA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "65"
+                    }
+                ]
+            },
+            {
+                "nombre": "Aguas Frescas",
+                "image_url": "https://indumesa.com/img/internos/especialidades/bebidas/img_aguas.png",
+                "Paquetes": [
+                    {
+                        "nombre_p": "FRESA VASO ",
+                        "platillo_nombre": "",
+                        "platillo_desc": "1/2",
+                        "precio": "35"
+                    },
+                    {
+                        "nombre_p": "FRESA JARRA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "65"
+                    },
+                    {
+                        "nombre_p": "MARACUYÁ VASO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "1/2",
+                        "precio": "45"
+                    },
+                    {
+                        "nombre_p": "MARACUYÁ JARRA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "85"
+                    },
+                    {
+                        "nombre_p": "MANGO VASO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "1/2",
+                        "precio": "35"
+                    },
+                    {
+                        "nombre_p": "MANGO JARRA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "65"
+                    },
+                    {
+                        "nombre_p": "LIMON",
+                        "platillo_nombre": "",
+                        "platillo_desc": "1/2",
+                        "precio": "35"
+                    },
+                    {
+                        "nombre_p": "LIMON JARRA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "65"
+                    },
+                    {
+                        "nombre_p": "PIÑA VASO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "1/2",
+                        "precio": "35"
+                    },
+                    {
+                        "nombre_p": "PIÑA JARRA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "65"
+                    }
+                ]
+            },
+            {
+                "nombre": "Cocteleria",
+                "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-14.jpg",
+                "Paquetes": [
+                    {
+                        "nombre_p": "NARANJADA MINERAL",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "50"
+                    },
+                    {
+                        "nombre_p": "LIMONADA MINERAL",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "50"
+                    },
+                    {
+                        "nombre_p": "PIÑA COLADA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "55"
+                    },
+                    {
+                        "nombre_p": "PIÑA COLADA CON ALCOHOL",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "75"
+                    },
+                    {
+                        "nombre_p": "CONGA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "55"
+                    },
+                    {
+                        "nombre_p": "CONGA CON ALCOHOL",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "75"
+                    },
+                    {
+                        "nombre_p": "PALOMA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "75"
+                    },
+                    {
+                        "nombre_p": "PARIS DE NOCHE",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "85"
+                    },
+                    {
+                        "nombre_p": "WHISKY RED LAVEL",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "75"
+                    },
+                    {
+                        "nombre_p": "WHISKY BUCHANNAS",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "85"
+                    },
+                    {
+                        "nombre_p": "CABALLITO TRADICIONAL",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "65"
+                    },
+                    {
+                        "nombre_p": "CABALLITO HERRADURA",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "95"
+                    },
+                    {
+                        "nombre_p": "CABALLITO 1800",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "85"
+                    },
+                    {
+                        "nombre_p": "JARRA DE CLERICOT",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "245"
+                    }
+                ]
+            },
+            {
+                "nombre": "Cervezas",
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwaiwtEl2cXxKsKiPAMP0lhEiOEygFcbWT96IU6PLGiAXK8sQi&usqp=CAU",
+                "Paquetes": [
+                    {
+                        "nombre_p": "CORONA",
+                        "platillo_nombre": "1/2",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "VICTORIA",
+                        "platillo_nombre": "1/2",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "LEON",
+                        "platillo_nombre": "1/2",
+                        "platillo_desc": "",
+                        "precio": "30"
+                    },
+                    {
+                        "nombre_p": "MODELO ESPECIAL",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "45"
+                    },
+                    {
+                        "nombre_p": "NEGRA MODELO",
+                        "platillo_nombre": "",
+                        "platillo_desc": "",
+                        "precio": "45"
+                    },
+                    {
+                        "nombre_p": "MICHELADA CH",
+                        "platillo_nombre": "1/2",
+                        "platillo_desc": "",
+                        "precio": "50"
+                    },
+                    {
+                        "nombre_p": "MICHELADA",
+                        "platillo_nombre": "1 LT",
+                        "platillo_desc": "",
+                        "precio": "85"
+                    }
+                ]
+            }
+        ]
+    }
+}
