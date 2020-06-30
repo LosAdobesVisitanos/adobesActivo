@@ -11,12 +11,6 @@
             {
                 "nombre": "Desayunos",
                 "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-07.jpg",
-                "incluye": [
-                    {
-                        "nombre": "",
-                        "descripcion": ""
-                    }
-                ],
                 "Paquetes": [
                     {
                         "nombre_p": "Paquete N° 1",
@@ -54,7 +48,13 @@
                         "platillo_desc": "",
                         "precio": "95"
                     }
-                ]
+                ],
+                "incluye": [
+                    {
+                        "nombre": "",
+                        "descripcion": ""
+                    }
+                ],
             },
             {
                 "nombre": "Entradas",
