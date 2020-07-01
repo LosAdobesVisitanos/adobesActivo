@@ -10,7 +10,7 @@
         "Menu": [
             {
                 "nombre": "Desayunos",
-                "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-07.jpg",
+                "image_url": "https://raw.githubusercontent.com/LosAdobesVisitanos/adobesActivo/master/cartas_adobes/adobes_desayuno.jpg",
                 "extras":[
                     {
                         "titulo":"Desayunos",
@@ -574,7 +574,7 @@
             },
             {
                 "nombre": "Cocteleria",
-                "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-14.jpg",
+                "image_url": "https://raw.githubusercontent.com/LosAdobesVisitanos/adobesActivo/master/cartas_adobes/adobes_cot1.jpg",
                 "Paquetes": [
                     {
                         "nombre_p": "NARANJADA MINERAL",
