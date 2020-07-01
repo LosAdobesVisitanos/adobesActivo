@@ -2,15 +2,21 @@
     "html": {
         "idioma": "es-Mx",
         "home": {
-            "titular": "Welcome",
+            "titular": "welcome",
             "Agradecimiento": "Thank you for your visit",
             "opcion": "Select the button to access the menu",
             "btnmenu": "Menu here"
         },
         "Menu": [
             {
-                "nombre": "breakfasts",
+                "nombre": "Breakfasts",
                 "image_url": "http://teotihuacan.nguideqr.mx/images/GRest/RLosAdobes/GLosAdobes-07.jpg",
+                "extras":[
+                    {
+                        "titulo":"Breakfasts",
+                        "description":"Your dish includes juice or fruit  + COFFEE OR HOT TEA"
+                    }
+                    ],
                 "Paquetes": [
                     {
                         "nombre_p": "Paquete N° 1",
